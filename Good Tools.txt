@@ -1,0 +1,43 @@
+4coder
+c/c++ coding ide
+https://4coder.handmade.network/
+
+ImgBurn
+ISO and cd-dvd burner
+http://imgburn.com/
+E:\Installers and Tools\ImgBurn
+
+VLC
+Video player
+https://www.videolan.org/vlc/
+..\Installers and Tools\VLC
+
+PuTTY
+ssh and telnet
+http://www.putty.org/
+..\Installers and Tools\PuTTY
+
+Filezilla
+ftp tool
+https://filezilla-project.org/download.php?type=client
+..\Installers and Tools\FileZilla
+
+qBittorent
+torrent client
+https://qbittorrent.org
+..\Installers and Tools\qBittorent
+
+F.lux
+Night time screen coloring
+https://justgetflux.com/
+..\Installers and Tools\F.lux
+
+The Levelator
+podcast sound leveler
+http://www.conversationsnetwork.org/levelator
+..\Installers and Tools\Levelator
+
+Voicemeeter Banana
+Better sound managment
+http://vb-audio.pagesperso-orange.fr/Voicemeeter/banana.htm
+..\Installers and Tools\Voicemeeter Banana
